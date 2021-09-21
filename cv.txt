@@ -1,3 +1,4 @@
 Ini adalah file CV
 
 Perusahaan pertama : Shopee
+Perusahaan kedua : Google
