@@ -15,10 +15,10 @@
 9. ubah file README.md menjadi. **nano README.md** **git add README.md**
 Halo perkenalkan aku halaman utama
 Ini adalah update pertama pada branch master
-jangan lupa untuk mendokumentasikannya menggunakan commit dengan pesan. ** git commit -m "update master pertama"**
+jangan lupa untuk mendokumentasikannya menggunakan commit dengan pesan. **git commit -m "update master pertama"**
 "update master pertama"
 10. gabungkan branch cv kedalam branch master menggunakan perintah git merge. **git merge cv** **git commit -m "Merge branch 'cv'"**
-11. unggah Git Repository tersebut kedalam GitHub. **git remote add origin https://github.com/annisawinnie/annisa-winnie-ardianti.git **git push -u origin main**
+11. unggah Git Repository tersebut kedalam GitHub. **git remote add origin https://github.com/annisawinnie/annisa-winnie-ardianti.git** **git push -u origin main**
 
 
  
